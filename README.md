@@ -44,8 +44,6 @@ npm install bootstrap
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
 To run the app, right click the index.html and "Open with Live Server"
 
 ## Contact
