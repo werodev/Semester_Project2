@@ -1,5 +1,5 @@
 # Semester_Project2
-## Semester Project 2 / Front-end Development 2nd Year
+## Front-end Development 2nd Year
 
 During this project we need to create e-commerce website fallowing the architecture described below
 
