@@ -3,6 +3,8 @@
 
 During this project we need to create e-commerce website fallowing the architecture described below
 
+![Preview](img/project_semester_2.png)
+
 ## Description
 
 We can find /create logo matching subject (company selling sport shoes). Site need to have good user experience and UI design.
