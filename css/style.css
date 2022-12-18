@@ -1,0 +1,33 @@
+h1, h2, h3, .nav-link {
+  color: #E60E00 !important;
+  font-family: "Comfortaa", cursive;
+}
+
+a .active {
+  color: #F07268 !important;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #fcfcfc;
+  color: #1c1c1c;
+}
+
+.navbar {
+  background-color: #fcfcfc !important;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-link {
+  color: #E60E00;
+}
+
+.jumbotron {
+  height: 400px;
+}
+/*# sourceMappingURL=style.css.map */

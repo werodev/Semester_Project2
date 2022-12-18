@@ -1,0 +1,33 @@
+body {
+    font-family: $font-primary;
+    background-color: $colour-light;
+    color: $colour-dark;
+}
+
+
+
+.jumbotron {
+    height: 400px;
+}
+
+.logo {
+    height: auto;
+}
+
+.search {
+    max-width: 200px; 
+}
+i.fa-solid {
+    height: 1.4rem;
+    color: $colour-red;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: $colour-red;
+}
+
+footer i {
+    color: $colour-light;
+}

@@ -1,0 +1,14 @@
+.navbar {
+    background-color: $colour-light !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link {
+    color: $colour-red;
+}
+
+.navbar-collapse {
+    justify-content: center;
+}
